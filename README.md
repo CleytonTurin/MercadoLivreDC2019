@@ -8,6 +8,7 @@ My solution for Mercado Livre data challenge 2019
 ## A exemple of title and category:
 
 Title = Banco Honda Crf 230 Pro Tork Frete Grátis	
+
 Category = MOTORCYCLE_SEATS
 
 ## Solution approach:
